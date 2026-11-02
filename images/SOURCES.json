@@ -1,0 +1,27 @@
+{
+  "observed_at": "2026-11-02T10:02:30.997327+08:00",
+  "images": [
+    {
+      "file": "images/01-cover.png",
+      "type": "original explanatory layout around actual native screenshot",
+      "source": "evidence/2026-11-02/handoff-preview-complete.png",
+      "no_generated_ui": true,
+      "sha256": "db05abc2ddf4ed56abf25d79b4402b943e039ada215e7507c66e84e13e82dacc"
+    },
+    {
+      "file": "images/02-handoff.png",
+      "type": "original explanatory layout around actual native screenshot",
+      "source": "evidence/2026-11-02/handoff-preview-complete.png",
+      "no_generated_ui": true,
+      "sha256": "eaadd8e4ec95ae29f1c928ca1d97d756ced64c9f64c3f5023d92a1bda77f837a"
+    },
+    {
+      "file": "images/03-reading.png",
+      "type": "original explanatory layout around actual native screenshot",
+      "source": "evidence/2026-11-02/reading-preview-complete.png",
+      "no_generated_ui": true,
+      "sha256": "6583e1c80de97124c882c5ab571a3addddd1f28d4fa58bb9c8ceb4b938ba253e"
+    }
+  ],
+  "note": "Screenshot content is original-fictional; app UI rights remain with upstream; 390px preview reviewed; independent visual review pending"
+}
